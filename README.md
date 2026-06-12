@@ -1,24 +1,70 @@
 # Summer-Assignment-2401920100226 
+# 🚀 Summer Assignment 2026
+
 This repository contains solutions for the 4-Week DSA & OOPS Summer Assignment.
 
+## Topics Covered
 
+---
 
-Topics Covered
+## Week 1 — Arrays & Basic Strings
 
-Week 1 — Arrays & Basic Strings
- 
-Array Basics
+- Array Basics
+- Prefix Sum & Sliding Window
+- Two Pointers
+- Matrix Problems
+- String Basics
+- OOPS: Interfaces
 
-Prefix Sum & Sliding Window
+## Week 2 — Advanced Strings
 
-Two Pointers
+- Hashing in Strings
+- String Matching
+- Palindromes
+- Anagrams
+- Pattern Searching
+- OOPS: Abstraction
 
-Matrix Problems
+## Week 3 — Linked Lists & Stacks
 
-String Basics
+- Singly Linked List
+- Doubly Linked List
+- Stack Basics
+- Queue Basics
+- Applications of Stack
+- OOPS: Inheritance
 
-OOPS: Interfaces
+## Week 4 — Trees & Recursion
 
+- Recursion Basics
+- Binary Trees
+- BST
+- Tree Traversals
+- Backtracking
+- OOPS: Polymorphism
+
+---
+
+## 📂 Folder Structure
+
+```text
+Summer-Assignment-2026/
+│
+├── Week-1/
+├── Week-2/
+├── Week-3/
+└── Week-4/
+```
+
+## 🛠️ Languages Used
+
+- Java
+- C++
+- Python
+
+## 📌 Notes
+
+Each week contains practice problems, solutions, and OOPS concepts.
 
 Week 2 — Advanced Strings
 Hashing in Strings
