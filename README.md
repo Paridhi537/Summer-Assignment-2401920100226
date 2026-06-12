@@ -1,5 +1,4 @@
-# Summer-Assignment-2401920100226
-This repository contains solutions for the 4-Week DSA & OOPS Summer Assignment.
+# Summer-Assignment-2401920100226 This repository contains solutions for the 4-Week DSA & OOPS Summer Assignment.
 
 Topics Covered
 
